@@ -38,3 +38,4 @@ coverage/
 *.pem
 *.key
 .cache/
+*.md
